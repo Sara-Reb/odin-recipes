@@ -1,0 +1,52 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #f7dab5;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 800px;
+  margin: 8px auto;
+  padding: 8px;
+  border: double 6px #f19d77;
+}
+
+a {
+  font-size: 18px;
+  color: #6b2a0c;
+}
+
+img {
+  width: 100%;
+  padding: 8px;
+  border: dashed 2px #f19d77;
+}
+
+h2 {
+  border-top: dashed 2px #f19d77;
+  padding-top: 8px;
+  margin-top: 24px;
+  color: #6b2a0c;
+}
+
+h1,
+h3 {
+  color: #6b2a0c;
+  margin: 8px auto;
+  padding-top: 8px;
+}
+
+p,
+li,
+dt {
+  margin: 8px auto;
+  color: #3d1705;
+}
+
+ul,
+ol {
+  margin: 8px auto;
+  padding-left: 36px;
+}
